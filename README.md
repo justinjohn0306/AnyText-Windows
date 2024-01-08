@@ -27,6 +27,9 @@ AnyText comprises a diffusion pipeline with two primary elements: an auxiliary l
 
 ![framework](docs/framework.jpg "framework")
 
+> On windows, make sure to enable this option in the control panel and restart the system: <img width="845" alt="image" src="https://github.com/justinjohn0306/AnyText-Windows/assets/34035011/598c88dd-267f-4b09-b955-8a3c0166b232">
+
+
 ## 🛠Installation
 ```bash
 # Install git (skip if already done)
