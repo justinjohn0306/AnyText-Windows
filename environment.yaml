@@ -7,7 +7,7 @@ dependencies:
   - pip=23.0.1
   - pytorch=2.1.0
   - torchvision=0.16.0
-  - cudatoolkit=11.8
+  - nvidia::cudatoolkit=11.8
   - numpy=1.23.3
   - cython==0.29.33
   - pip:
